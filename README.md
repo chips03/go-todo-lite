@@ -1,2 +1,2 @@
 # go-todo-lite
-Simple todo app using Golang and SQLite
+Simple Restful API for todo list using Golang and SQLite
