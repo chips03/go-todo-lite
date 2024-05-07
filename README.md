@@ -16,3 +16,15 @@ Start the server
 ```bash
 go run main.go
 ```
+
+### API Endpoint
+#### url : http://127.0.0.1:3000
+
+#### /todos
+* `GET` : Get all todo's
+* `POST` : Create a new todo
+  
+#### /todos/:id
+* `GET` : Get a single todo
+* `PUT` : Update a single todo
+  
